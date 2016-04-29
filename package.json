@@ -1,0 +1,27 @@
+{
+  "name": "passport-parse-session",
+  "version": "1.0.0",
+  "description": " A passport strategy to use Parse session tokens for authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hulab/passport-parse-session.git"
+  },
+  "keywords": [
+    "parse",
+    "parse.com",
+    "passport"
+  ],
+  "author": "emersion <contact@emersion.fr>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hulab/passport-parse-session/issues"
+  },
+  "homepage": "https://github.com/hulab/passport-parse-session#readme",
+  "dependencies": {
+    "request": "^2.72.0"
+  }
+}
